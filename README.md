@@ -18,7 +18,7 @@ O tema escolhido foi um software para o gerenciamento de senhas, que é capaz de
 
 - Developer: [Igor](https://github.com/eiguinho)
 
-- O Repositório pode ser acessado em  [Projeto Final](https://github.com/bryan-Muller12/projetoPoo)
+- O Repositório pode ser acessado em  [Projeto Final](https://github.com/bryan-Muller12/projetofinalPoo)
 
 ## Design Pattern
 - Strategy
